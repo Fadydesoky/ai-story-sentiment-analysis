@@ -1,5 +1,9 @@
 # AI-Powered Emotional Analysis of The Tell-Tale Heart
 
+![License](https://img.shields.io/badge/license-MIT-green)
+![Python](https://img.shields.io/badge/Python-3.x-blue)
+![Power BI](https://img.shields.io/badge/PowerBI-Dashboard-yellow)
+
 This project explores how we can track emotional patterns within a story using basic NLP techniques and transform them into an interactive dashboard using Power BI.
 
 ---
@@ -73,3 +77,10 @@ This project uses basic NLP techniques and is intended as a practical exploratio
 ---
 
 Feel free to explore the project or reach out for any questions!
+
+---
+
+## 🔗 Let's Connect
+
+If you found this project interesting, feel free to connect with me on LinkedIn:
+👉 https://www.linkedin.com/in/fadydesokysaeedabdelaziz/
