@@ -35,9 +35,13 @@ The goal was to transform unstructured text into a structured dataset and uncove
 
 ## 📁 Project Structure
 ├── nlp_emotional_analysis.ipynb # NLP analysis
+
 ├── story.txt # Original text
+
 ├── story_sentiment.csv # Processed dataset
+
 ├── dashboard/
+
 │ └──dashboard.png # Power BI dashboard
 
 
