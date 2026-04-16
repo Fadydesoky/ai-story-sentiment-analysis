@@ -41,7 +41,6 @@ The goal was to transform unstructured text into a structured dataset and uncove
 ├── story_sentiment.csv # Processed dataset
 
 ├── dashboard/
-
 │ └──dashboard.png # Power BI dashboard
 
 
